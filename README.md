@@ -41,3 +41,13 @@ The original list is:
 The sorted list is:
 1     12    23    34    45    ...
 ```
+
+**Development Skills**
+
+This project helped develop the following skills:
+
+- Linked Lists: Gain experience in creating, manipulating, and traversing linked lists.
+- Dynamic Memory Management: Understand how to allocate and free memory using malloc and free.
+- Random Number Generation: Learn to generate random numbers using the rand() function and seed with srand().
+- Sorting Algorithms: Implement the bubble sort algorithm, which reinforces logic and algorithm design.
+- Function Design: Practice writing modular code by creating multiple functions for distinct tasks.
