@@ -1,4 +1,4 @@
-***Random Integer Linked List Sorter***
+## Random Integer Linked List Sorter
 
 **Description**
 
